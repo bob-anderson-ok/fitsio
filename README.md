@@ -11,7 +11,7 @@ fitsio
 ## Installation
 
 ```sh
-$ go get github.com/astrogo/fitsio
+$ go get github.com/bob-anderson-ok/fitsio
 ```
 
 ## Documentation
