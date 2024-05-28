@@ -8,7 +8,7 @@ on:
 
 env:
   TAGS: "-tags=ci"
-  COVERAGE: "-coverpkg=github.com/astrogo/fitsio/..."
+  COVERAGE: "-coverpkg=github.com/bob-anderson-ok/fitsio/..."
 
 jobs:
 
