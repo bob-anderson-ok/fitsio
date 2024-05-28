@@ -27,7 +27,7 @@ adding yourself to the `AUTHORS` and/or `CONTRIBUTORS` file.
 ## Example
 
 ```go
-import fits "github.com/astrogo/fitsio"
+import fits "github.com/bob-anderson-ok/fitsio"
 
 func dumpFitsTable(fname string) {
     r, err := os.Open(fname)
